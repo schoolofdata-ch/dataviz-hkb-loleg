@@ -1,2 +1,3 @@
 altair==2.0.0rc2
 pandas==0.22.0
+vega3
